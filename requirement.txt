@@ -10,3 +10,5 @@ Dark mode add
 
 Added new features for test
 Test commit2
+
+Test commit3
