@@ -12,3 +12,7 @@ Added new features for test
 Test commit2
 
 Test commit3
+
+Payment Gateway
+Payment receive
+Payment send
